@@ -77,6 +77,13 @@ image {
     max-width: 80%;
 }
 
+.dennis {
+    margin-left: 20%;
+}
+
+
+/* main article */
+
 article {
     text-align: left;
     display: flex;
@@ -86,6 +93,27 @@ article {
     margin-left: auto;
     margin-right: auto;
     font-size: larger;
+}
+
+article .sign {
+    margin-right: 25%;
+}
+
+article .signup {
+    padding: 10px;
+    align-self: right;
+    margin-left: 70%;
+    margin-top: -35px;
+}
+
+article .sub {
+    margin-right: 30%;
+    margin-left: 30%;
+    align-items: center;
+}
+
+article u {
+    color: blue;
 }
 
 .header {
@@ -98,6 +126,44 @@ aside {
     justify-content: flex-end;
     max-width: 10%;
     margin-left: 0%;
+    color: black;
+}
+
+
+/*  inflation captions in picture */
+
+.inflation {
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+.short-descriptions {
+    position: absolute;
+    width: 228px;
+}
+
+#inf-container {
+    position: relative;
+    font-size: 13px;
+    font-family: sans-serif;
+    font-weight: 300;
+    line-height: 16px;
+}
+
+.short-descriptions p {
+    margin: 0;
+}
+
+span b {
+    font-size: 12px;
+    font-weight: 600;
+}
+
+article.icon {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 
@@ -106,14 +172,28 @@ aside {
 .popular {
     flex-shrink: initial;
     float: right;
-    max-width: 10%;
+    max-width: 20%;
     max-height: 200px;
 }
 
-.storylink box {
-    display: flexbox;
-    width: 5%;
-    height: 5%;
+.spacestories {
+    margin-right: 21%;
+}
+
+.link {
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: flex-start;
+    align-content: space-evenly;
+    margin-right: 10%;
+}
+
+.editor {
+    display: row;
+    grid-auto-flow: column;
+    justify-content: flex-start;
+    align-content: space-around;
+    margin-right: 10%;
 }
 
 
