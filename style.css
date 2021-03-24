@@ -51,27 +51,28 @@ nav .space {
 
 /*  headline  and social media styling */
 
-.toptext h2 {
+.top .toptext {
     position: relative;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     color: black;
     align-items: center;
+    margin-left: 40%;
+    right: 20%;
+    font-size: 25px;
+    font-style: oblique;
     top: 30px;
 }
 
-.toptext #social ul li {
-    list-style-type: none;
+.top .social {
+    margin-top: 20px;
+    margin-bottom: 20px;
     display: flex;
-    flex-direction: column;
-    position: absolute;
-    float: left;
-    align-items: center;
+    justify-content: center;
+    padding-left: 3em;
 }
 
 image {
-    margin: left 20%;
-    margin: right 20px;
     height: auto;
     max-width: 80%;
 }
