@@ -7,9 +7,12 @@ The requirements of this project consists of making a clone of a New York Times 
 - The box model
 
 
-New York Times article 
+New York Times article page
+
 
 ![screenshot](img/nyt.png)
+
+
 
 
 
@@ -19,6 +22,7 @@ Built With  Html Css Technologies
 
 
 👤 Author1
+
 
 - GitHub:[@danmainah](https://github.com/danmainah)
 - Twitter: [@dan_mainah](https://twitter.com/dan_mainah)
