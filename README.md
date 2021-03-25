@@ -9,7 +9,7 @@ The requirements of this project consists of making a clone of a New York Times 
 
 New York Times article 
 
-
+![screenshot](img/nyt.png)
 
 
 
