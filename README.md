@@ -23,7 +23,6 @@ Built With  Html Css Technologies
 
 👤 Author1
 
-
 - GitHub:[@danmainah](https://github.com/danmainah)
 - Twitter: [@dan_mainah](https://twitter.com/dan_mainah)
 - Linkedin:[@danielmaina](www.linkedin.com/in/daniel-maina-315a38191)
