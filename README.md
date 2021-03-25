@@ -7,10 +7,7 @@ The requirements of this project consists of making a clone of a New York Times 
 - The box model
 
 
-New York Times article page
-
-
-![screenshot](img/nyt.png)
+New York Times article 
 
 
 
