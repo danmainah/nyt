@@ -12,10 +12,6 @@ New York Times article page
 
 ![screenshot](img/nyt.png)
 
-
-
-
-
 Additional description about the project and its features.
 
 Built With  Html Css Technologies
