@@ -39,7 +39,6 @@ nav .space {
   color: black;
 }
 
-
 /*  headline  and social media styling */
 
 .top .toptext {
@@ -75,7 +74,6 @@ nav .space {
 .dennis {
   margin-left: 20%;
 }
-
 
 /* main article */
 
@@ -124,7 +122,6 @@ aside {
   text-decoration-color: black;
 }
 
-
 /*  inflation captions in picture */
 
 .inflation {
@@ -159,7 +156,6 @@ article.icon {
   margin-bottom: 20px;
   display: flex;
 }
-
 
 /*  space stories */
 
@@ -198,7 +194,6 @@ article.icon {
   margin-right: 15%;
   align-content: space-evenly;
 }
-
 
 /*  footer */
 
